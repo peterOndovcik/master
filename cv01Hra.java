@@ -7,7 +7,7 @@ import net.useobjects.draw.samples.Aircraft;
 import net.useobjects.frame.MainWindow;
 import net.useobjects.geom.Position;
 import net.useobjects.timer.SimpleTimer;
-///mast2
+///pan master mast2
 ////master
 /////////ssssssssssssssssss
 public class cv01Hra {

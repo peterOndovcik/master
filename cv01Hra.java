@@ -8,7 +8,7 @@ import net.useobjects.frame.MainWindow;
 import net.useobjects.geom.Position;
 import net.useobjects.timer.SimpleTimer;
 
-
+/////////ssssssssssssssssss
 public class cv01Hra {
     static final double AIRCRAFT_DEFAULT_SPEED = 10;     //defaultna rychlost lietadla
         static final double AIRCRAFT_SPEED_CHANGE = 1;      //velkost zmeny rychlosti lietadla

@@ -17,7 +17,7 @@ public class cv01Hra {
 	static final double CRASH_DISTANCE = 25; //maximalna vzdalenost, kedy sa lietadla zrazia
 	static final int TIME_STEP = 100;        //interval v milisekundach
        
-        
+        //xcccccccccccccccccc
     public static void main(String[] args) {
         MainWindow window = new MainWindow("bojova hra",1000,600);
         GroupView group = window.getRootGroup();
